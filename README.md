@@ -2,18 +2,24 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to Create a ReactJS Application.
+It will be a single route application.
 
 ## Description
-TODO - How have you solved the problem?
+we will Create a ReactJS Application. It will be a single route application.
+You will be able to perform all simple operation: +-/*
+It should display the result of the operation.
+You should be able to do multiple operation.
+You should be able to clear the buffer.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+you will need to install run npm install 
+ensure it install all the necessary depenmdencies 
 
 ## Usage
-TODO - How does it work?
+You can use it to create an online calculation 
 ```
-./my_project argument1 argument2
+you can use it to manipulate various user interface 
 ```
 
 ### The Core Team
